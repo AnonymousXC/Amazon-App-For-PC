@@ -9,5 +9,5 @@ This is unofficial app. This is made to make it official.
 ![Picture 1](./1.png)
 ![Picture 2](./2.png)
 ![Picture 3](./3.png)
-![Picture 4](./4.png)\
-Check video above👆👆
+![Picture 4](./4.png)
+![Gif](./live-reload.gif)\
