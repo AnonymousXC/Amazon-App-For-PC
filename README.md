@@ -23,3 +23,9 @@ But Amazon has prime video app. So, I decided to make the app. \
 As Its been about 2 years while I am coding with zero results so, I thought to give it a try. \
 I hope u liked it.
 
+## Plans
+If the response is positive. \
+Then, I would like to add
+- Custom Title Bar
+- Better Security
+- And, many more things.
