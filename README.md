@@ -31,4 +31,9 @@ Then, I would like to add
 - And, many more things.
 
 ## How to Download
-![Download 1](./download-1)
+![Download 1](./download-1.png)
+Click on 1 Tag.
+![Download 2](./download-2.png)
+Click on Assets
+![Download 3](./download-3.png)
+Choose according to your system.
