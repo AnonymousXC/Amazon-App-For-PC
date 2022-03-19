@@ -29,3 +29,5 @@ Then, I would like to add
 - Custom Title Bar
 - Better Security
 - And, many more things.
+
+## How to Download
