@@ -1,11 +1,14 @@
 # Amazon-App-For-PC
 Hi,
 You can know more about me [here](https://anonymousxc.github.io/ItsMeOnly/).\
-So,\
-I wanted to keep this repository private but no one could access it with url too.\
-***This is unofficial app. This is made to make it official.*** \
-This app is not tested by buying anything. \
-I also added dark theme somehow in this app.
+So,
+- I wanted to keep this repository private but no one could access it with url too.
+- ***This is unofficial app. This is made to make it official.*** 
+- This is available for Windows, Mac and Linux. 
+- I have test this app on Windows. 
+- I prefer using a Windows computer to see its full functionality. 
+- This app is not tested by buying anything. 
+- I also added dark theme somehow in this app.
 
 ## ScreenShots
 ![Picture 1](./1.png)
